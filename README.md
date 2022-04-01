@@ -26,15 +26,15 @@ https://wireframe.cc/wXokoF
 
 ## Implementation Timeline
 
-Friday Afternoon & Weekend: Read more thoroughly the documentation of Webpack and Canvas. Design out the level choices, item designs, character designs, and textboxes that generate on user interaction. 
-Implement the basic movement patterns of the character and npcs(hostile), and tying user input to the movement of the character.
+  * Friday Afternoon & Weekend: Read more thoroughly the documentation of Webpack and Canvas. Design out the level choices, item designs, character             designs, and textboxes that generate on user interaction. 
+      Implement the basic movement patterns of the character and npcs(hostile), and tying user input to the movement of the character.
 
-Monday: Implement the spawning/despawning of npcs on screen, also how to create a map that a character can travel through!
+  * Monday: Implement the spawning/despawning of npcs on screen, also how to create a map that a character can travel through!
 
-Tuesday: Implement the basic combat, for both the character and the npcs!
+  * Tuesday: Implement the basic combat, for both the character and the npcs!
 
-Wednesday: Add ability to "interact" with npcs, through text boxes that appear on screen at
-the action of user interaction key (probably will be 'e'!). Also will be adding the graphics to canvas!
+  * Wednesday: Add ability to "interact" with npcs, through text boxes that appear on screen at
+      the action of user interaction key (probably will be 'e'!). Also will be adding the graphics to canvas!
 
-Thursday Morning: Deploy to GitHub pages, and definitely rewrite this README as a production one!
+  * Thursday Morning: Deploy to GitHub pages, and definitely rewrite this README as a production one!
 
