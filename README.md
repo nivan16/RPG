@@ -22,7 +22,8 @@ Webpack to bundle the source JS script
 NPM to manage project dependencies
 
 ## WireFrame
-https://wireframe.cc/wXokoF
+![Wireframe image of the project plan to be]
+(https://wireframe.cc/wXokoF)
 
 ## Implementation Timeline
 
